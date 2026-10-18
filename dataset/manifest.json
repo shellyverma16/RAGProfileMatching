@@ -1,0 +1,327 @@
+{
+  "source": "Synthetic documents generated for RAGProfileMatching educational use.",
+  "formats": [
+    ".rtf",
+    ".pdf"
+  ],
+  "resumes": [
+    {
+      "id": "aisha_khan",
+      "name": "Aisha Khan",
+      "role": "Data Scientist",
+      "years_experience": 6,
+      "rtf": "resumes/aisha_khan.rtf",
+      "pdf": "resumes/aisha_khan.pdf"
+    },
+    {
+      "id": "benjamin_lee",
+      "name": "Benjamin Lee",
+      "role": "Backend Engineer",
+      "years_experience": 8,
+      "rtf": "resumes/benjamin_lee.rtf",
+      "pdf": "resumes/benjamin_lee.pdf"
+    },
+    {
+      "id": "carla_mendes",
+      "name": "Carla Mendes",
+      "role": "Product Manager",
+      "years_experience": 7,
+      "rtf": "resumes/carla_mendes.rtf",
+      "pdf": "resumes/carla_mendes.pdf"
+    },
+    {
+      "id": "deepak_sharma",
+      "name": "Deepak Sharma",
+      "role": "Machine Learning Engineer",
+      "years_experience": 5,
+      "rtf": "resumes/deepak_sharma.rtf",
+      "pdf": "resumes/deepak_sharma.pdf"
+    },
+    {
+      "id": "elena_petrova",
+      "name": "Elena Petrova",
+      "role": "Frontend Engineer",
+      "years_experience": 5,
+      "rtf": "resumes/elena_petrova.rtf",
+      "pdf": "resumes/elena_petrova.pdf"
+    },
+    {
+      "id": "farah_ali",
+      "name": "Farah Ali",
+      "role": "Data Engineer",
+      "years_experience": 6,
+      "rtf": "resumes/farah_ali.rtf",
+      "pdf": "resumes/farah_ali.pdf"
+    },
+    {
+      "id": "gabriel_santos",
+      "name": "Gabriel Santos",
+      "role": "DevOps Engineer",
+      "years_experience": 9,
+      "rtf": "resumes/gabriel_santos.rtf",
+      "pdf": "resumes/gabriel_santos.pdf"
+    },
+    {
+      "id": "hana_kim",
+      "name": "Hana Kim",
+      "role": "UX Researcher",
+      "years_experience": 5,
+      "rtf": "resumes/hana_kim.rtf",
+      "pdf": "resumes/hana_kim.pdf"
+    },
+    {
+      "id": "isaac_brown",
+      "name": "Isaac Brown",
+      "role": "Cybersecurity Analyst",
+      "years_experience": 6,
+      "rtf": "resumes/isaac_brown.rtf",
+      "pdf": "resumes/isaac_brown.pdf"
+    },
+    {
+      "id": "jia_wei",
+      "name": "Jia Wei",
+      "role": "Business Analyst",
+      "years_experience": 4,
+      "rtf": "resumes/jia_wei.rtf",
+      "pdf": "resumes/jia_wei.pdf"
+    },
+    {
+      "id": "kofi_mensah",
+      "name": "Kofi Mensah",
+      "role": "Cloud Architect",
+      "years_experience": 10,
+      "rtf": "resumes/kofi_mensah.rtf",
+      "pdf": "resumes/kofi_mensah.pdf"
+    },
+    {
+      "id": "lena_fischer",
+      "name": "Lena Fischer",
+      "role": "NLP Engineer",
+      "years_experience": 4,
+      "rtf": "resumes/lena_fischer.rtf",
+      "pdf": "resumes/lena_fischer.pdf"
+    },
+    {
+      "id": "marcus_johnson",
+      "name": "Marcus Johnson",
+      "role": "Mobile Engineer",
+      "years_experience": 6,
+      "rtf": "resumes/marcus_johnson.rtf",
+      "pdf": "resumes/marcus_johnson.pdf"
+    },
+    {
+      "id": "nora_ahmed",
+      "name": "Nora Ahmed",
+      "role": "QA Automation Engineer",
+      "years_experience": 5,
+      "rtf": "resumes/nora_ahmed.rtf",
+      "pdf": "resumes/nora_ahmed.pdf"
+    },
+    {
+      "id": "oliver_smith",
+      "name": "Oliver Smith",
+      "role": "Financial Analyst",
+      "years_experience": 7,
+      "rtf": "resumes/oliver_smith.rtf",
+      "pdf": "resumes/oliver_smith.pdf"
+    },
+    {
+      "id": "priya_patel",
+      "name": "Priya Patel",
+      "role": "Full Stack Engineer",
+      "years_experience": 7,
+      "rtf": "resumes/priya_patel.rtf",
+      "pdf": "resumes/priya_patel.pdf"
+    },
+    {
+      "id": "quentin_dubois",
+      "name": "Quentin Dubois",
+      "role": "Data Scientist",
+      "years_experience": 3,
+      "rtf": "resumes/quentin_dubois.rtf",
+      "pdf": "resumes/quentin_dubois.pdf"
+    },
+    {
+      "id": "rosa_garcia",
+      "name": "Rosa Garcia",
+      "role": "HR Operations Specialist",
+      "years_experience": 6,
+      "rtf": "resumes/rosa_garcia.rtf",
+      "pdf": "resumes/rosa_garcia.pdf"
+    },
+    {
+      "id": "samuel_okoro",
+      "name": "Samuel Okoro",
+      "role": "Site Reliability Engineer",
+      "years_experience": 7,
+      "rtf": "resumes/samuel_okoro.rtf",
+      "pdf": "resumes/samuel_okoro.pdf"
+    },
+    {
+      "id": "tanya_wilson",
+      "name": "Tanya Wilson",
+      "role": "Marketing Analyst",
+      "years_experience": 5,
+      "rtf": "resumes/tanya_wilson.rtf",
+      "pdf": "resumes/tanya_wilson.pdf"
+    },
+    {
+      "id": "umar_hassan",
+      "name": "Umar Hassan",
+      "role": "Java Engineer",
+      "years_experience": 8,
+      "rtf": "resumes/umar_hassan.rtf",
+      "pdf": "resumes/umar_hassan.pdf"
+    },
+    {
+      "id": "victoria_nguyen",
+      "name": "Victoria Nguyen",
+      "role": "Data Engineer",
+      "years_experience": 4,
+      "rtf": "resumes/victoria_nguyen.rtf",
+      "pdf": "resumes/victoria_nguyen.pdf"
+    },
+    {
+      "id": "william_chen",
+      "name": "William Chen",
+      "role": "AI Product Manager",
+      "years_experience": 6,
+      "rtf": "resumes/william_chen.rtf",
+      "pdf": "resumes/william_chen.pdf"
+    },
+    {
+      "id": "xenia_ivanova",
+      "name": "Xenia Ivanova",
+      "role": "Platform Engineer",
+      "years_experience": 6,
+      "rtf": "resumes/xenia_ivanova.rtf",
+      "pdf": "resumes/xenia_ivanova.pdf"
+    },
+    {
+      "id": "yusuf_abdi",
+      "name": "Yusuf Abdi",
+      "role": "Network Engineer",
+      "years_experience": 8,
+      "rtf": "resumes/yusuf_abdi.rtf",
+      "pdf": "resumes/yusuf_abdi.pdf"
+    },
+    {
+      "id": "zoe_martin",
+      "name": "Zoe Martin",
+      "role": "Content Designer",
+      "years_experience": 4,
+      "rtf": "resumes/zoe_martin.rtf",
+      "pdf": "resumes/zoe_martin.pdf"
+    },
+    {
+      "id": "aarav_mehta",
+      "name": "Aarav Mehta",
+      "role": "Machine Learning Engineer",
+      "years_experience": 7,
+      "rtf": "resumes/aarav_mehta.rtf",
+      "pdf": "resumes/aarav_mehta.pdf"
+    },
+    {
+      "id": "bianca_rossi",
+      "name": "Bianca Rossi",
+      "role": "Frontend Engineer",
+      "years_experience": 3,
+      "rtf": "resumes/bianca_rossi.rtf",
+      "pdf": "resumes/bianca_rossi.pdf"
+    },
+    {
+      "id": "chinedu_eze",
+      "name": "Chinedu Eze",
+      "role": "Backend Engineer",
+      "years_experience": 5,
+      "rtf": "resumes/chinedu_eze.rtf",
+      "pdf": "resumes/chinedu_eze.pdf"
+    },
+    {
+      "id": "diana_ortiz",
+      "name": "Diana Ortiz",
+      "role": "Operations Manager",
+      "years_experience": 9,
+      "rtf": "resumes/diana_ortiz.rtf",
+      "pdf": "resumes/diana_ortiz.pdf"
+    },
+    {
+      "id": "ethan_miller",
+      "name": "Ethan Miller",
+      "role": "Data Analyst",
+      "years_experience": 3,
+      "rtf": "resumes/ethan_miller.rtf",
+      "pdf": "resumes/ethan_miller.pdf"
+    },
+    {
+      "id": "fatima_zahra",
+      "name": "Fatima Zahra",
+      "role": "Security Engineer",
+      "years_experience": 5,
+      "rtf": "resumes/fatima_zahra.rtf",
+      "pdf": "resumes/fatima_zahra.pdf"
+    },
+    {
+      "id": "george_adams",
+      "name": "George Adams",
+      "role": "Solutions Architect",
+      "years_experience": 11,
+      "rtf": "resumes/george_adams.rtf",
+      "pdf": "resumes/george_adams.pdf"
+    },
+    {
+      "id": "helen_cho",
+      "name": "Helen Cho",
+      "role": "QA Engineer",
+      "years_experience": 4,
+      "rtf": "resumes/helen_cho.rtf",
+      "pdf": "resumes/helen_cho.pdf"
+    },
+    {
+      "id": "imran_siddiqui",
+      "name": "Imran Siddiqui",
+      "role": "Analytics Engineer",
+      "years_experience": 5,
+      "rtf": "resumes/imran_siddiqui.rtf",
+      "pdf": "resumes/imran_siddiqui.pdf"
+    }
+  ],
+  "job_descriptions": [
+    {
+      "id": "data_scientist",
+      "title": "Data Scientist",
+      "rtf": "job_descriptions/data_scientist.rtf",
+      "pdf": "job_descriptions/data_scientist.pdf"
+    },
+    {
+      "id": "ml_engineer",
+      "title": "Machine Learning Engineer",
+      "rtf": "job_descriptions/ml_engineer.rtf",
+      "pdf": "job_descriptions/ml_engineer.pdf"
+    },
+    {
+      "id": "backend_engineer",
+      "title": "Backend Engineer",
+      "rtf": "job_descriptions/backend_engineer.rtf",
+      "pdf": "job_descriptions/backend_engineer.pdf"
+    },
+    {
+      "id": "data_engineer",
+      "title": "Data Engineer",
+      "rtf": "job_descriptions/data_engineer.rtf",
+      "pdf": "job_descriptions/data_engineer.pdf"
+    },
+    {
+      "id": "frontend_engineer",
+      "title": "Frontend Engineer",
+      "rtf": "job_descriptions/frontend_engineer.rtf",
+      "pdf": "job_descriptions/frontend_engineer.pdf"
+    },
+    {
+      "id": "cloud_security_engineer",
+      "title": "Cloud Security Engineer",
+      "rtf": "job_descriptions/cloud_security_engineer.rtf",
+      "pdf": "job_descriptions/cloud_security_engineer.pdf"
+    }
+  ]
+}
