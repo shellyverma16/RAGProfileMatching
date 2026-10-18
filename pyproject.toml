@@ -1,0 +1,13 @@
+[project]
+name = "ragprofilematching"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "chromadb>=1.0.0",
+    "docx>=0.2.4",
+    "ipykernel>=7.4.0",
+    "openai>=3.35.1",
+    "pypdf2>=3.0.1",
+]
