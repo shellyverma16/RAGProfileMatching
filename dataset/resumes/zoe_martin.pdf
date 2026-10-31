@@ -4,76 +4,50 @@
 << /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+<< /Type /Pages /Kids [6 0 R] /Count 1 >>
 endobj
 3 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 5 0 R >> >> /Contents 4 0 R >>
-endobj
-4 0 obj
-<< /Length 692 >>
-stream
-BT
-/F1 18 Tf
-72 750 Td
-(Zoe Martin) Tj
-0 -20 Td
-/F1 11 Tf
-() Tj
-0 -20 Td
-/F1 11 Tf
-(Professional Summary) Tj
-0 -20 Td
-/F1 11 Tf
-(Content Designer with 4 years of experience delivering measurable outcomes in collaborative teams.) Tj
-0 -20 Td
-/F1 11 Tf
-() Tj
-0 -20 Td
-/F1 11 Tf
-(Skills) Tj
-0 -20 Td
-/F1 11 Tf
-(UX Writing, Content Strategy, Figma, Accessibility, Research) Tj
-0 -20 Td
-/F1 11 Tf
-() Tj
-0 -20 Td
-/F1 11 Tf
-(Experience) Tj
-0 -20 Td
-/F1 11 Tf
-(Content Designer | 4 years) Tj
-0 -20 Td
-/F1 11 Tf
-(Improved in-product guidance for complex account setup.) Tj
-0 -20 Td
-/F1 11 Tf
-() Tj
-0 -20 Td
-/F1 11 Tf
-(Education) Tj
-0 -20 Td
-/F1 11 Tf
-(BA Communications) Tj
-0 -20 Td
-/F1 11 Tf
-() Tj
-ET
-endstream
-endobj
-5 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
 endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Length 1379 >>
+stream
+BT /F2 18 Tf 1 0 0 1 72 727 Tm (Zoe Martin) Tj ET
+BT /F1 10 Tf 1 0 0 1 72 712 Tm (zoe.martin@example.com | +1-555-0125 | Seattle, WA) Tj ET
+BT /F2 13 Tf 1 0 0 1 72 683 Tm (Professional Summary) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 667 Tm (Content Designer with 4 years of experience delivering measurable outcomes in) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 651 Tm (collaborative teams.) Tj ET
+BT /F2 13 Tf 1 0 0 1 72 622 Tm (Skills) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 606 Tm (UX Writing, Content Strategy, Figma, Accessibility, Research) Tj ET
+BT /F2 13 Tf 1 0 0 1 72 577 Tm (Experience) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 561 Tm (Content Designer | Tidewater Energy | 2023 - Present) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 545 Tm (- Improved in-product guidance for complex account setup.) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 529 Tm (- Partnered with cross-functional stakeholders to prioritize and deliver quarterly) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 513 Tm (  goals.) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 497 Tm (- Presented results to leadership and turned feedback into follow-up improvements.) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 481 Tm (Content Designer | Lattice Learning | 2022 - 2023) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 465 Tm (- Documented processes and mentored newer team members.) Tj ET
+BT /F2 13 Tf 1 0 0 1 72 436 Tm (Education) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 420 Tm (BA Communications, Northern Coast University \(2022\)) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 5 0 R >>
+endobj
 xref
-0 6
+0 7
 0000000000 65535 f 
 0000000015 00000 n 
 0000000064 00000 n 
 0000000121 00000 n 
-0000000247 00000 n 
-0000000990 00000 n 
+0000000191 00000 n 
+0000000266 00000 n 
+0000001697 00000 n 
 trailer
-<< /Size 6 /Root 1 0 R >>
+<< /Size 7 /Root 1 0 R >>
 startxref
-1060
+1833
 %%EOF

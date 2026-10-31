@@ -1,5 +1,6 @@
 .env
 .venv/
 chroma_db/
+reports/
 /__pycache__/
 __pycache__

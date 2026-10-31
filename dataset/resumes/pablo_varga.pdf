@@ -1,0 +1,58 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Length 1895 >>
+stream
+BT /F2 18 Tf 1 0 0 1 72 727 Tm (Pablo Varga) Tj ET
+BT /F1 10 Tf 1 0 0 1 72 712 Tm (pablo.varga@example.com | +1-555-0135 | Seattle, WA) Tj ET
+BT /F2 13 Tf 1 0 0 1 72 683 Tm (Professional Summary) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 667 Tm (Lead Data Scientist with 11 years of experience building predictive models and) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 651 Tm (turning experiments into product decisions.) Tj ET
+BT /F2 13 Tf 1 0 0 1 72 622 Tm (Skills) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 606 Tm (Python, SQL, Machine Learning, TensorFlow, AWS, Spark, Pandas) Tj ET
+BT /F2 13 Tf 1 0 0 1 72 577 Tm (Experience) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 561 Tm (Lead Data Scientist | Pinecrest Software | 2022 - Present) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 545 Tm (- Mentored two junior analysts on experiment design and model validation.) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 529 Tm (- Trained TensorFlow demand models and deployed batch scoring jobs on AWS.) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 513 Tm (- Created feature pipelines in SQL and Python that cut model refresh time from days) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 497 Tm (  to hours.) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 481 Tm (Data Scientist | Meadowlark Media | 2018 - 2022) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 465 Tm (- Designed A/B test analyses for pricing changes and presented results to product) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 449 Tm (  leadership.) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 433 Tm (- Replaced spreadsheet forecasts with gradient-boosted models, reducing error by 12%.) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 417 Tm (Associate Data Scientist | Silverline Bank | 2015 - 2018) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 401 Tm (- Built a churn-prediction model that let retention teams target the top 5% of) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 385 Tm (  at-risk accounts.) Tj ET
+BT /F2 13 Tf 1 0 0 1 72 356 Tm (Education) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 340 Tm (MSc Data Science, Cedar Valley University \(2015\)) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 5 0 R >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000191 00000 n 
+0000000266 00000 n 
+0000002213 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+2349
+%%EOF

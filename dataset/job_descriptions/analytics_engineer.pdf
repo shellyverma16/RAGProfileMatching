@@ -1,0 +1,50 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Length 981 >>
+stream
+BT /F2 18 Tf 1 0 0 1 72 727 Tm (Analytics Engineer) Tj ET
+BT /F2 13 Tf 1 0 0 1 72 698 Tm (Role Overview) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 682 Tm (Orchard Telecom is hiring an Analytics Engineer to join a cross-functional team.) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 666 Tm (Location: London, UK.) Tj ET
+BT /F2 13 Tf 1 0 0 1 72 637 Tm (Minimum Experience) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 621 Tm (3+ years) Tj ET
+BT /F2 13 Tf 1 0 0 1 72 592 Tm (Required Skills) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 576 Tm (SQL, dbt, Snowflake, Python, Data Modeling) Tj ET
+BT /F2 13 Tf 1 0 0 1 72 547 Tm (Nice-to-Have Skills) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 531 Tm (Looker, Airflow, Git) Tj ET
+BT /F2 13 Tf 1 0 0 1 72 502 Tm (Responsibilities) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 486 Tm (- Model trusted business metrics in the warehouse.) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 470 Tm (- Maintain tests and documentation for data models.) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 454 Tm (- Enable self-service analytics for business teams.) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 5 0 R >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000191 00000 n 
+0000000266 00000 n 
+0000001298 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+1434
+%%EOF

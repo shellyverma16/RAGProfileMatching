@@ -4,76 +4,53 @@
 << /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+<< /Type /Pages /Kids [6 0 R] /Count 1 >>
 endobj
 3 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 5 0 R >> >> /Contents 4 0 R >>
-endobj
-4 0 obj
-<< /Length 690 >>
-stream
-BT
-/F1 18 Tf
-72 750 Td
-(Aisha Khan) Tj
-0 -20 Td
-/F1 11 Tf
-() Tj
-0 -20 Td
-/F1 11 Tf
-(Professional Summary) Tj
-0 -20 Td
-/F1 11 Tf
-(Data Scientist with 6 years of experience delivering measurable outcomes in collaborative teams.) Tj
-0 -20 Td
-/F1 11 Tf
-() Tj
-0 -20 Td
-/F1 11 Tf
-(Skills) Tj
-0 -20 Td
-/F1 11 Tf
-(Python, SQL, Machine Learning, TensorFlow, AWS) Tj
-0 -20 Td
-/F1 11 Tf
-() Tj
-0 -20 Td
-/F1 11 Tf
-(Experience) Tj
-0 -20 Td
-/F1 11 Tf
-(Data Scientist | 6 years) Tj
-0 -20 Td
-/F1 11 Tf
-(Built demand forecasting models that improved inventory planning by 18%.) Tj
-0 -20 Td
-/F1 11 Tf
-() Tj
-0 -20 Td
-/F1 11 Tf
-(Education) Tj
-0 -20 Td
-/F1 11 Tf
-(MSc Data Science) Tj
-0 -20 Td
-/F1 11 Tf
-() Tj
-ET
-endstream
-endobj
-5 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
 endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Length 1688 >>
+stream
+BT /F2 18 Tf 1 0 0 1 72 727 Tm (Aisha Khan) Tj ET
+BT /F1 10 Tf 1 0 0 1 72 712 Tm (aisha.khan@example.com | +1-555-0100 | New York, NY) Tj ET
+BT /F2 13 Tf 1 0 0 1 72 683 Tm (Professional Summary) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 667 Tm (Senior Data Scientist with 6 years of experience building predictive models and) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 651 Tm (turning experiments into product decisions.) Tj ET
+BT /F2 13 Tf 1 0 0 1 72 622 Tm (Skills) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 606 Tm (Python, SQL, Machine Learning, TensorFlow, AWS, Spark, PyTorch) Tj ET
+BT /F2 13 Tf 1 0 0 1 72 577 Tm (Experience) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 561 Tm (Senior Data Scientist | Copperleaf Labs | 2024 - Present) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 545 Tm (- Built demand forecasting models that improved inventory planning by 18%.) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 529 Tm (- Designed A/B test analyses for pricing changes and presented results to product) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 513 Tm (  leadership.) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 497 Tm (- Replaced spreadsheet forecasts with gradient-boosted models, reducing error by 12%.) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 481 Tm (Data Scientist | Tidewater Energy | 2020 - 2024) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 465 Tm (- Built a churn-prediction model that let retention teams target the top 5% of) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 449 Tm (  at-risk accounts.) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 433 Tm (- Created feature pipelines in SQL and Python that cut model refresh time from days) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 417 Tm (  to hours.) Tj ET
+BT /F2 13 Tf 1 0 0 1 72 388 Tm (Education) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 372 Tm (MSc Data Science, Northern Coast University \(2020\)) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 5 0 R >>
+endobj
 xref
-0 6
+0 7
 0000000000 65535 f 
 0000000015 00000 n 
 0000000064 00000 n 
 0000000121 00000 n 
-0000000247 00000 n 
-0000000988 00000 n 
+0000000191 00000 n 
+0000000266 00000 n 
+0000002006 00000 n 
 trailer
-<< /Size 6 /Root 1 0 R >>
+<< /Size 7 /Root 1 0 R >>
 startxref
-1058
+2142
 %%EOF

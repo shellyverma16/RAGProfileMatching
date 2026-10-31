@@ -1,7 +1,6 @@
 {
   "source": "Synthetic documents generated for RAGProfileMatching educational use.",
   "formats": [
-    ".rtf",
     ".pdf"
   ],
   "resumes": [
@@ -10,7 +9,16 @@
       "name": "Aisha Khan",
       "role": "Data Scientist",
       "years_experience": 6,
-      "rtf": "resumes/aisha_khan.rtf",
+      "skills": [
+        "Python",
+        "SQL",
+        "Machine Learning",
+        "TensorFlow",
+        "AWS",
+        "Spark",
+        "PyTorch"
+      ],
+      "tier": "original",
       "pdf": "resumes/aisha_khan.pdf"
     },
     {
@@ -18,7 +26,16 @@
       "name": "Benjamin Lee",
       "role": "Backend Engineer",
       "years_experience": 8,
-      "rtf": "resumes/benjamin_lee.rtf",
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "Docker",
+        "GraphQL",
+        "Kafka"
+      ],
+      "tier": "original",
       "pdf": "resumes/benjamin_lee.pdf"
     },
     {
@@ -26,7 +43,16 @@
       "name": "Carla Mendes",
       "role": "Product Manager",
       "years_experience": 7,
-      "rtf": "resumes/carla_mendes.rtf",
+      "skills": [
+        "Product Strategy",
+        "Agile",
+        "SQL",
+        "A/B Testing",
+        "Figma",
+        "Analytics",
+        "Stakeholder Management"
+      ],
+      "tier": "original",
       "pdf": "resumes/carla_mendes.pdf"
     },
     {
@@ -34,7 +60,16 @@
       "name": "Deepak Sharma",
       "role": "Machine Learning Engineer",
       "years_experience": 5,
-      "rtf": "resumes/deepak_sharma.rtf",
+      "skills": [
+        "Python",
+        "PyTorch",
+        "MLOps",
+        "Kubernetes",
+        "MLflow",
+        "SageMaker",
+        "Kubeflow"
+      ],
+      "tier": "original",
       "pdf": "resumes/deepak_sharma.pdf"
     },
     {
@@ -42,7 +77,16 @@
       "name": "Elena Petrova",
       "role": "Frontend Engineer",
       "years_experience": 5,
-      "rtf": "resumes/elena_petrova.rtf",
+      "skills": [
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Jest",
+        "Accessibility",
+        "Cypress",
+        "Storybook"
+      ],
+      "tier": "original",
       "pdf": "resumes/elena_petrova.pdf"
     },
     {
@@ -50,7 +94,16 @@
       "name": "Farah Ali",
       "role": "Data Engineer",
       "years_experience": 6,
-      "rtf": "resumes/farah_ali.rtf",
+      "skills": [
+        "Python",
+        "Spark",
+        "Airflow",
+        "Snowflake",
+        "dbt",
+        "BigQuery",
+        "Databricks"
+      ],
+      "tier": "original",
       "pdf": "resumes/farah_ali.pdf"
     },
     {
@@ -58,7 +111,16 @@
       "name": "Gabriel Santos",
       "role": "DevOps Engineer",
       "years_experience": 9,
-      "rtf": "resumes/gabriel_santos.rtf",
+      "skills": [
+        "AWS",
+        "Terraform",
+        "Kubernetes",
+        "CI/CD",
+        "Linux",
+        "Ansible",
+        "Helm"
+      ],
+      "tier": "original",
       "pdf": "resumes/gabriel_santos.pdf"
     },
     {
@@ -66,7 +128,14 @@
       "name": "Hana Kim",
       "role": "UX Researcher",
       "years_experience": 5,
-      "rtf": "resumes/hana_kim.rtf",
+      "skills": [
+        "User Research",
+        "Usability Testing",
+        "Figma",
+        "Surveys",
+        "Analytics"
+      ],
+      "tier": "original",
       "pdf": "resumes/hana_kim.pdf"
     },
     {
@@ -74,7 +143,14 @@
       "name": "Isaac Brown",
       "role": "Cybersecurity Analyst",
       "years_experience": 6,
-      "rtf": "resumes/isaac_brown.rtf",
+      "skills": [
+        "SIEM",
+        "Incident Response",
+        "Python",
+        "Splunk",
+        "Risk Assessment"
+      ],
+      "tier": "original",
       "pdf": "resumes/isaac_brown.pdf"
     },
     {
@@ -82,7 +158,14 @@
       "name": "Jia Wei",
       "role": "Business Analyst",
       "years_experience": 4,
-      "rtf": "resumes/jia_wei.rtf",
+      "skills": [
+        "SQL",
+        "Tableau",
+        "Excel",
+        "Requirements Analysis",
+        "Agile"
+      ],
+      "tier": "original",
       "pdf": "resumes/jia_wei.pdf"
     },
     {
@@ -90,7 +173,14 @@
       "name": "Kofi Mensah",
       "role": "Cloud Architect",
       "years_experience": 10,
-      "rtf": "resumes/kofi_mensah.rtf",
+      "skills": [
+        "Azure",
+        "AWS",
+        "Terraform",
+        "Kubernetes",
+        "Architecture"
+      ],
+      "tier": "original",
       "pdf": "resumes/kofi_mensah.pdf"
     },
     {
@@ -98,7 +188,16 @@
       "name": "Lena Fischer",
       "role": "NLP Engineer",
       "years_experience": 4,
-      "rtf": "resumes/lena_fischer.rtf",
+      "skills": [
+        "Python",
+        "NLP",
+        "Transformers",
+        "Hugging Face",
+        "FastAPI",
+        "Vector Databases",
+        "RAG"
+      ],
+      "tier": "original",
       "pdf": "resumes/lena_fischer.pdf"
     },
     {
@@ -106,7 +205,16 @@
       "name": "Marcus Johnson",
       "role": "Mobile Engineer",
       "years_experience": 6,
-      "rtf": "resumes/marcus_johnson.rtf",
+      "skills": [
+        "Kotlin",
+        "Android",
+        "Jetpack Compose",
+        "Firebase",
+        "REST APIs",
+        "Offline Sync",
+        "CI/CD"
+      ],
+      "tier": "original",
       "pdf": "resumes/marcus_johnson.pdf"
     },
     {
@@ -114,7 +222,16 @@
       "name": "Nora Ahmed",
       "role": "QA Automation Engineer",
       "years_experience": 5,
-      "rtf": "resumes/nora_ahmed.rtf",
+      "skills": [
+        "Python",
+        "Selenium",
+        "Playwright",
+        "API Testing",
+        "CI/CD",
+        "JavaScript",
+        "Performance Testing"
+      ],
+      "tier": "original",
       "pdf": "resumes/nora_ahmed.pdf"
     },
     {
@@ -122,7 +239,14 @@
       "name": "Oliver Smith",
       "role": "Financial Analyst",
       "years_experience": 7,
-      "rtf": "resumes/oliver_smith.rtf",
+      "skills": [
+        "Financial Modeling",
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Power BI"
+      ],
+      "tier": "original",
       "pdf": "resumes/oliver_smith.pdf"
     },
     {
@@ -130,7 +254,16 @@
       "name": "Priya Patel",
       "role": "Full Stack Engineer",
       "years_experience": 7,
-      "rtf": "resumes/priya_patel.rtf",
+      "skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "AWS",
+        "Docker",
+        "TypeScript"
+      ],
+      "tier": "original",
       "pdf": "resumes/priya_patel.pdf"
     },
     {
@@ -138,7 +271,16 @@
       "name": "Quentin Dubois",
       "role": "Data Scientist",
       "years_experience": 3,
-      "rtf": "resumes/quentin_dubois.rtf",
+      "skills": [
+        "Python",
+        "R",
+        "Statistics",
+        "SQL",
+        "Tableau",
+        "Spark",
+        "A/B Testing"
+      ],
+      "tier": "original",
       "pdf": "resumes/quentin_dubois.pdf"
     },
     {
@@ -146,7 +288,14 @@
       "name": "Rosa Garcia",
       "role": "HR Operations Specialist",
       "years_experience": 6,
-      "rtf": "resumes/rosa_garcia.rtf",
+      "skills": [
+        "HRIS",
+        "Recruiting",
+        "Onboarding",
+        "Excel",
+        "Policy Compliance"
+      ],
+      "tier": "original",
       "pdf": "resumes/rosa_garcia.pdf"
     },
     {
@@ -154,7 +303,16 @@
       "name": "Samuel Okoro",
       "role": "Site Reliability Engineer",
       "years_experience": 7,
-      "rtf": "resumes/samuel_okoro.rtf",
+      "skills": [
+        "Go",
+        "Kubernetes",
+        "Prometheus",
+        "Grafana",
+        "AWS",
+        "Incident Response",
+        "Python"
+      ],
+      "tier": "original",
       "pdf": "resumes/samuel_okoro.pdf"
     },
     {
@@ -162,7 +320,14 @@
       "name": "Tanya Wilson",
       "role": "Marketing Analyst",
       "years_experience": 5,
-      "rtf": "resumes/tanya_wilson.rtf",
+      "skills": [
+        "Google Analytics",
+        "SQL",
+        "Tableau",
+        "Campaign Analysis",
+        "SEO"
+      ],
+      "tier": "original",
       "pdf": "resumes/tanya_wilson.pdf"
     },
     {
@@ -170,7 +335,16 @@
       "name": "Umar Hassan",
       "role": "Java Engineer",
       "years_experience": 8,
-      "rtf": "resumes/umar_hassan.rtf",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Kafka",
+        "PostgreSQL",
+        "Microservices",
+        "AWS",
+        "REST APIs"
+      ],
+      "tier": "original",
       "pdf": "resumes/umar_hassan.pdf"
     },
     {
@@ -178,7 +352,16 @@
       "name": "Victoria Nguyen",
       "role": "Data Engineer",
       "years_experience": 4,
-      "rtf": "resumes/victoria_nguyen.rtf",
+      "skills": [
+        "Python",
+        "SQL",
+        "BigQuery",
+        "Airflow",
+        "Looker",
+        "Data Quality",
+        "Spark"
+      ],
+      "tier": "original",
       "pdf": "resumes/victoria_nguyen.pdf"
     },
     {
@@ -186,7 +369,14 @@
       "name": "William Chen",
       "role": "AI Product Manager",
       "years_experience": 6,
-      "rtf": "resumes/william_chen.rtf",
+      "skills": [
+        "Product Management",
+        "LLMs",
+        "SQL",
+        "Roadmaps",
+        "Experimentation"
+      ],
+      "tier": "original",
       "pdf": "resumes/william_chen.pdf"
     },
     {
@@ -194,7 +384,14 @@
       "name": "Xenia Ivanova",
       "role": "Platform Engineer",
       "years_experience": 6,
-      "rtf": "resumes/xenia_ivanova.rtf",
+      "skills": [
+        "Python",
+        "Kubernetes",
+        "Terraform",
+        "GitHub Actions",
+        "AWS"
+      ],
+      "tier": "original",
       "pdf": "resumes/xenia_ivanova.pdf"
     },
     {
@@ -202,7 +399,14 @@
       "name": "Yusuf Abdi",
       "role": "Network Engineer",
       "years_experience": 8,
-      "rtf": "resumes/yusuf_abdi.rtf",
+      "skills": [
+        "Cisco",
+        "TCP/IP",
+        "Firewalls",
+        "VPN",
+        "Network Monitoring"
+      ],
+      "tier": "original",
       "pdf": "resumes/yusuf_abdi.pdf"
     },
     {
@@ -210,7 +414,14 @@
       "name": "Zoe Martin",
       "role": "Content Designer",
       "years_experience": 4,
-      "rtf": "resumes/zoe_martin.rtf",
+      "skills": [
+        "UX Writing",
+        "Content Strategy",
+        "Figma",
+        "Accessibility",
+        "Research"
+      ],
+      "tier": "original",
       "pdf": "resumes/zoe_martin.pdf"
     },
     {
@@ -218,7 +429,16 @@
       "name": "Aarav Mehta",
       "role": "Machine Learning Engineer",
       "years_experience": 7,
-      "rtf": "resumes/aarav_mehta.rtf",
+      "skills": [
+        "Python",
+        "TensorFlow",
+        "Spark",
+        "AWS",
+        "SageMaker",
+        "Feature Stores",
+        "Kubeflow"
+      ],
+      "tier": "original",
       "pdf": "resumes/aarav_mehta.pdf"
     },
     {
@@ -226,7 +446,16 @@
       "name": "Bianca Rossi",
       "role": "Frontend Engineer",
       "years_experience": 3,
-      "rtf": "resumes/bianca_rossi.rtf",
+      "skills": [
+        "TypeScript",
+        "React",
+        "CSS",
+        "Storybook",
+        "Cypress",
+        "GraphQL",
+        "Performance Optimization"
+      ],
+      "tier": "original",
       "pdf": "resumes/bianca_rossi.pdf"
     },
     {
@@ -234,7 +463,16 @@
       "name": "Chinedu Eze",
       "role": "Backend Engineer",
       "years_experience": 5,
-      "rtf": "resumes/chinedu_eze.rtf",
+      "skills": [
+        "Node.js",
+        "TypeScript",
+        "PostgreSQL",
+        "Docker",
+        "REST APIs",
+        "Kafka",
+        "AWS"
+      ],
+      "tier": "original",
       "pdf": "resumes/chinedu_eze.pdf"
     },
     {
@@ -242,7 +480,14 @@
       "name": "Diana Ortiz",
       "role": "Operations Manager",
       "years_experience": 9,
-      "rtf": "resumes/diana_ortiz.rtf",
+      "skills": [
+        "Operations",
+        "Process Improvement",
+        "Excel",
+        "Vendor Management",
+        "KPIs"
+      ],
+      "tier": "original",
       "pdf": "resumes/diana_ortiz.pdf"
     },
     {
@@ -250,7 +495,16 @@
       "name": "Ethan Miller",
       "role": "Data Analyst",
       "years_experience": 3,
-      "rtf": "resumes/ethan_miller.rtf",
+      "skills": [
+        "SQL",
+        "Python",
+        "Power BI",
+        "Excel",
+        "Statistics",
+        "Google Analytics",
+        "Tableau"
+      ],
+      "tier": "original",
       "pdf": "resumes/ethan_miller.pdf"
     },
     {
@@ -258,7 +512,16 @@
       "name": "Fatima Zahra",
       "role": "Security Engineer",
       "years_experience": 5,
-      "rtf": "resumes/fatima_zahra.rtf",
+      "skills": [
+        "Python",
+        "Cloud Security",
+        "IAM",
+        "AWS",
+        "Threat Modeling",
+        "SIEM",
+        "Compliance"
+      ],
+      "tier": "original",
       "pdf": "resumes/fatima_zahra.pdf"
     },
     {
@@ -266,7 +529,14 @@
       "name": "George Adams",
       "role": "Solutions Architect",
       "years_experience": 11,
-      "rtf": "resumes/george_adams.rtf",
+      "skills": [
+        "AWS",
+        "APIs",
+        "Microservices",
+        "Stakeholder Management",
+        "Java"
+      ],
+      "tier": "original",
       "pdf": "resumes/george_adams.pdf"
     },
     {
@@ -274,7 +544,16 @@
       "name": "Helen Cho",
       "role": "QA Engineer",
       "years_experience": 4,
-      "rtf": "resumes/helen_cho.rtf",
+      "skills": [
+        "Manual Testing",
+        "Playwright",
+        "JavaScript",
+        "Jira",
+        "API Testing",
+        "Postman",
+        "Pytest"
+      ],
+      "tier": "original",
       "pdf": "resumes/helen_cho.pdf"
     },
     {
@@ -282,46 +561,1371 @@
       "name": "Imran Siddiqui",
       "role": "Analytics Engineer",
       "years_experience": 5,
-      "rtf": "resumes/imran_siddiqui.rtf",
+      "skills": [
+        "SQL",
+        "dbt",
+        "Snowflake",
+        "Python",
+        "Tableau",
+        "Data Quality",
+        "Git"
+      ],
+      "tier": "original",
       "pdf": "resumes/imran_siddiqui.pdf"
+    },
+    {
+      "id": "pablo_varga",
+      "name": "Pablo Varga",
+      "role": "Data Scientist",
+      "years_experience": 11,
+      "skills": [
+        "Python",
+        "SQL",
+        "Machine Learning",
+        "TensorFlow",
+        "AWS",
+        "Spark",
+        "Pandas"
+      ],
+      "tier": "strong",
+      "pdf": "resumes/pablo_varga.pdf"
+    },
+    {
+      "id": "dmitri_popescu",
+      "name": "Dmitri Popescu",
+      "role": "Data Scientist",
+      "years_experience": 5,
+      "skills": [
+        "Machine Learning",
+        "SQL",
+        "AWS",
+        "Spark",
+        "Tableau",
+        "scikit-learn",
+        "A/B Testing",
+        "Statistics"
+      ],
+      "tier": "partial",
+      "pdf": "resumes/dmitri_popescu.pdf"
+    },
+    {
+      "id": "omar_zhou",
+      "name": "Omar Zhou",
+      "role": "Data Scientist",
+      "years_experience": 7,
+      "skills": [
+        "SQL",
+        "AWS",
+        "Python",
+        "TensorFlow",
+        "Statistics",
+        "Pandas",
+        "PyTorch"
+      ],
+      "tier": "partial",
+      "pdf": "resumes/omar_zhou.pdf"
+    },
+    {
+      "id": "kenji_reyes",
+      "name": "Kenji Reyes",
+      "role": "Data Scientist",
+      "years_experience": 3,
+      "skills": [
+        "AWS",
+        "SQL",
+        "PyTorch",
+        "Statistics",
+        "Spark",
+        "Tableau",
+        "Pandas"
+      ],
+      "tier": "weak",
+      "pdf": "resumes/kenji_reyes.pdf"
+    },
+    {
+      "id": "hannah_popescu",
+      "name": "Hannah Popescu",
+      "role": "Machine Learning Engineer",
+      "years_experience": 10,
+      "skills": [
+        "Python",
+        "PyTorch",
+        "MLOps",
+        "Kubernetes",
+        "MLflow",
+        "TensorFlow",
+        "Kubeflow"
+      ],
+      "tier": "strong",
+      "pdf": "resumes/hannah_popescu.pdf"
+    },
+    {
+      "id": "uma_usman",
+      "name": "Uma Usman",
+      "role": "Machine Learning Engineer",
+      "years_experience": 5,
+      "skills": [
+        "PyTorch",
+        "MLOps",
+        "Kubernetes",
+        "Python",
+        "Kubeflow",
+        "Airflow",
+        "Feature Stores"
+      ],
+      "tier": "partial",
+      "pdf": "resumes/uma_usman.pdf"
+    },
+    {
+      "id": "olga_nakamura",
+      "name": "Olga Nakamura",
+      "role": "Machine Learning Engineer",
+      "years_experience": 4,
+      "skills": [
+        "PyTorch",
+        "Kubernetes",
+        "MLOps",
+        "Python",
+        "Airflow",
+        "Docker",
+        "Feature Stores"
+      ],
+      "tier": "partial",
+      "pdf": "resumes/olga_nakamura.pdf"
+    },
+    {
+      "id": "mei_ibrahim",
+      "name": "Mei Ibrahim",
+      "role": "Machine Learning Engineer",
+      "years_experience": 3,
+      "skills": [
+        "PyTorch",
+        "MLOps",
+        "TensorFlow",
+        "AWS",
+        "SageMaker",
+        "Feature Stores",
+        "Kubeflow"
+      ],
+      "tier": "weak",
+      "pdf": "resumes/mei_ibrahim.pdf"
+    },
+    {
+      "id": "oscar_reyes",
+      "name": "Oscar Reyes",
+      "role": "Backend Engineer",
+      "years_experience": 10,
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Docker",
+        "REST APIs",
+        "Celery",
+        "GraphQL"
+      ],
+      "tier": "strong",
+      "pdf": "resumes/oscar_reyes.pdf"
+    },
+    {
+      "id": "esther_osei",
+      "name": "Esther Osei",
+      "role": "Backend Engineer",
+      "years_experience": 7,
+      "skills": [
+        "REST APIs",
+        "Python",
+        "PostgreSQL",
+        "GraphQL",
+        "Celery",
+        "Kafka",
+        "AWS",
+        "Redis"
+      ],
+      "tier": "partial",
+      "pdf": "resumes/esther_osei.pdf"
+    },
+    {
+      "id": "nikhil_gupta",
+      "name": "Nikhil Gupta",
+      "role": "Backend Engineer",
+      "years_experience": 5,
+      "skills": [
+        "REST APIs",
+        "Python",
+        "Docker",
+        "Redis",
+        "CI/CD",
+        "Kafka",
+        "FastAPI",
+        "GraphQL"
+      ],
+      "tier": "partial",
+      "pdf": "resumes/nikhil_gupta.pdf"
+    },
+    {
+      "id": "gustavo_alvarez",
+      "name": "Gustavo Alvarez",
+      "role": "Backend Engineer",
+      "years_experience": 4,
+      "skills": [
+        "REST APIs",
+        "Docker",
+        "Kafka",
+        "GraphQL",
+        "Redis",
+        "FastAPI",
+        "CI/CD"
+      ],
+      "tier": "weak",
+      "pdf": "resumes/gustavo_alvarez.pdf"
+    },
+    {
+      "id": "ivan_zhou",
+      "name": "Ivan Zhou",
+      "role": "Data Engineer",
+      "years_experience": 8,
+      "skills": [
+        "Python",
+        "SQL",
+        "Airflow",
+        "Snowflake",
+        "dbt",
+        "BigQuery",
+        "Data Quality"
+      ],
+      "tier": "strong",
+      "pdf": "resumes/ivan_zhou.pdf"
+    },
+    {
+      "id": "dev_kowalski",
+      "name": "Dev Kowalski",
+      "role": "Data Engineer",
+      "years_experience": 6,
+      "skills": [
+        "Airflow",
+        "Snowflake",
+        "Python",
+        "Data Quality",
+        "Spark",
+        "Kafka",
+        "Terraform",
+        "BigQuery"
+      ],
+      "tier": "partial",
+      "pdf": "resumes/dev_kowalski.pdf"
+    },
+    {
+      "id": "emeka_castillo",
+      "name": "Emeka Castillo",
+      "role": "Data Engineer",
+      "years_experience": 8,
+      "skills": [
+        "SQL",
+        "Airflow",
+        "Snowflake",
+        "Kafka",
+        "BigQuery",
+        "Data Quality",
+        "AWS",
+        "Terraform"
+      ],
+      "tier": "partial",
+      "pdf": "resumes/emeka_castillo.pdf"
+    },
+    {
+      "id": "tariq_moreau",
+      "name": "Tariq Moreau",
+      "role": "Data Engineer",
+      "years_experience": 3,
+      "skills": [
+        "SQL",
+        "Airflow",
+        "Terraform",
+        "Databricks",
+        "Spark",
+        "AWS",
+        "Kafka"
+      ],
+      "tier": "weak",
+      "pdf": "resumes/tariq_moreau.pdf"
+    },
+    {
+      "id": "paula_ibrahim",
+      "name": "Paula Ibrahim",
+      "role": "Frontend Engineer",
+      "years_experience": 9,
+      "skills": [
+        "TypeScript",
+        "React",
+        "Accessibility",
+        "Testing",
+        "Next.js",
+        "Cypress",
+        "CSS",
+        "Performance Optimization"
+      ],
+      "tier": "strong",
+      "pdf": "resumes/paula_ibrahim.pdf"
+    },
+    {
+      "id": "adele_brennan",
+      "name": "Adele Brennan",
+      "role": "Frontend Engineer",
+      "years_experience": 4,
+      "skills": [
+        "TypeScript",
+        "React",
+        "Accessibility",
+        "Performance Optimization",
+        "CSS",
+        "Storybook",
+        "Cypress",
+        "Next.js"
+      ],
+      "tier": "partial",
+      "pdf": "resumes/adele_brennan.pdf"
+    },
+    {
+      "id": "yara_popescu",
+      "name": "Yara Popescu",
+      "role": "Frontend Engineer",
+      "years_experience": 6,
+      "skills": [
+        "React",
+        "TypeScript",
+        "Storybook",
+        "CSS",
+        "Performance Optimization",
+        "Jest",
+        "Cypress"
+      ],
+      "tier": "partial",
+      "pdf": "resumes/yara_popescu.pdf"
+    },
+    {
+      "id": "dario_bianchi",
+      "name": "Dario Bianchi",
+      "role": "Frontend Engineer",
+      "years_experience": 2,
+      "skills": [
+        "TypeScript",
+        "Testing",
+        "Storybook",
+        "CSS",
+        "Performance Optimization",
+        "GraphQL",
+        "Next.js"
+      ],
+      "tier": "weak",
+      "pdf": "resumes/dario_bianchi.pdf"
+    },
+    {
+      "id": "wanjiru_chowdhury",
+      "name": "Wanjiru Chowdhury",
+      "role": "Cloud Security Engineer",
+      "years_experience": 6,
+      "skills": [
+        "Python",
+        "AWS",
+        "IAM",
+        "Cloud Security",
+        "Threat Modeling",
+        "Kubernetes",
+        "Terraform"
+      ],
+      "tier": "strong",
+      "pdf": "resumes/wanjiru_chowdhury.pdf"
+    },
+    {
+      "id": "carmen_popescu",
+      "name": "Carmen Popescu",
+      "role": "Cloud Security Engineer",
+      "years_experience": 8,
+      "skills": [
+        "IAM",
+        "Python",
+        "Cloud Security",
+        "Incident Response",
+        "SIEM",
+        "Kubernetes",
+        "Terraform",
+        "Compliance"
+      ],
+      "tier": "partial",
+      "pdf": "resumes/carmen_popescu.pdf"
+    },
+    {
+      "id": "isla_tanaka",
+      "name": "Isla Tanaka",
+      "role": "Cloud Security Engineer",
+      "years_experience": 5,
+      "skills": [
+        "Python",
+        "Cloud Security",
+        "Threat Modeling",
+        "Compliance",
+        "Zero Trust",
+        "SIEM",
+        "Incident Response",
+        "Terraform"
+      ],
+      "tier": "partial",
+      "pdf": "resumes/isla_tanaka.pdf"
+    },
+    {
+      "id": "fiona_usman",
+      "name": "Fiona Usman",
+      "role": "Cloud Security Engineer",
+      "years_experience": 1,
+      "skills": [
+        "Python",
+        "Cloud Security",
+        "Compliance",
+        "Incident Response",
+        "Kubernetes",
+        "SIEM",
+        "Terraform"
+      ],
+      "tier": "weak",
+      "pdf": "resumes/fiona_usman.pdf"
+    },
+    {
+      "id": "naomi_kowalski",
+      "name": "Naomi Kowalski",
+      "role": "DevOps Engineer",
+      "years_experience": 12,
+      "skills": [
+        "AWS",
+        "Terraform",
+        "Kubernetes",
+        "CI/CD",
+        "Linux",
+        "Prometheus",
+        "GitHub Actions"
+      ],
+      "tier": "strong",
+      "pdf": "resumes/naomi_kowalski.pdf"
+    },
+    {
+      "id": "grace_dimitrov",
+      "name": "Grace Dimitrov",
+      "role": "DevOps Engineer",
+      "years_experience": 3,
+      "skills": [
+        "Terraform",
+        "Linux",
+        "Kubernetes",
+        "Python",
+        "Prometheus",
+        "Helm",
+        "Bash",
+        "Ansible"
+      ],
+      "tier": "partial",
+      "pdf": "resumes/grace_dimitrov.pdf"
+    },
+    {
+      "id": "ursula_alvarez",
+      "name": "Ursula Alvarez",
+      "role": "DevOps Engineer",
+      "years_experience": 4,
+      "skills": [
+        "Kubernetes",
+        "CI/CD",
+        "Linux",
+        "Terraform",
+        "Ansible",
+        "Python",
+        "Bash"
+      ],
+      "tier": "partial",
+      "pdf": "resumes/ursula_alvarez.pdf"
+    },
+    {
+      "id": "stefan_sato",
+      "name": "Stefan Sato",
+      "role": "DevOps Engineer",
+      "years_experience": 3,
+      "skills": [
+        "Kubernetes",
+        "Terraform",
+        "Prometheus",
+        "Python",
+        "GitHub Actions",
+        "Helm",
+        "Bash"
+      ],
+      "tier": "weak",
+      "pdf": "resumes/stefan_sato.pdf"
+    },
+    {
+      "id": "liam_dimitrov",
+      "name": "Liam Dimitrov",
+      "role": "Full Stack Engineer",
+      "years_experience": 11,
+      "skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "PostgreSQL",
+        "AWS",
+        "Next.js",
+        "Docker"
+      ],
+      "tier": "strong",
+      "pdf": "resumes/liam_dimitrov.pdf"
+    },
+    {
+      "id": "sofia_larsen",
+      "name": "Sofia Larsen",
+      "role": "Full Stack Engineer",
+      "years_experience": 7,
+      "skills": [
+        "JavaScript",
+        "Node.js",
+        "React",
+        "Redis",
+        "TypeScript",
+        "Docker",
+        "GraphQL",
+        "Next.js"
+      ],
+      "tier": "partial",
+      "pdf": "resumes/sofia_larsen.pdf"
+    },
+    {
+      "id": "goran_castillo",
+      "name": "Goran Castillo",
+      "role": "Full Stack Engineer",
+      "years_experience": 4,
+      "skills": [
+        "AWS",
+        "PostgreSQL",
+        "React",
+        "JavaScript",
+        "Redis",
+        "TypeScript",
+        "Docker"
+      ],
+      "tier": "partial",
+      "pdf": "resumes/goran_castillo.pdf"
+    },
+    {
+      "id": "daniel_eriksen",
+      "name": "Daniel Eriksen",
+      "role": "Full Stack Engineer",
+      "years_experience": 1,
+      "skills": [
+        "AWS",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "TypeScript",
+        "Docker",
+        "GraphQL"
+      ],
+      "tier": "weak",
+      "pdf": "resumes/daniel_eriksen.pdf"
+    },
+    {
+      "id": "jonah_yilmaz",
+      "name": "Jonah Yilmaz",
+      "role": "NLP Engineer",
+      "years_experience": 9,
+      "skills": [
+        "Python",
+        "NLP",
+        "Transformers",
+        "Hugging Face",
+        "PyTorch",
+        "spaCy",
+        "FastAPI"
+      ],
+      "tier": "strong",
+      "pdf": "resumes/jonah_yilmaz.pdf"
+    },
+    {
+      "id": "rafael_alvarez",
+      "name": "Rafael Alvarez",
+      "role": "NLP Engineer",
+      "years_experience": 4,
+      "skills": [
+        "Hugging Face",
+        "PyTorch",
+        "Transformers",
+        "Python",
+        "LangChain",
+        "RAG",
+        "Vector Databases"
+      ],
+      "tier": "partial",
+      "pdf": "resumes/rafael_alvarez.pdf"
+    },
+    {
+      "id": "farid_brennan",
+      "name": "Farid Brennan",
+      "role": "NLP Engineer",
+      "years_experience": 5,
+      "skills": [
+        "PyTorch",
+        "Hugging Face",
+        "NLP",
+        "RAG",
+        "spaCy",
+        "Vector Databases",
+        "LLMs",
+        "FastAPI"
+      ],
+      "tier": "partial",
+      "pdf": "resumes/farid_brennan.pdf"
+    },
+    {
+      "id": "gemma_dimitrov",
+      "name": "Gemma Dimitrov",
+      "role": "NLP Engineer",
+      "years_experience": 3,
+      "skills": [
+        "Transformers",
+        "Hugging Face",
+        "RAG",
+        "MLOps",
+        "FastAPI",
+        "LangChain",
+        "LLMs"
+      ],
+      "tier": "weak",
+      "pdf": "resumes/gemma_dimitrov.pdf"
+    },
+    {
+      "id": "helga_ibrahim",
+      "name": "Helga Ibrahim",
+      "role": "Analytics Engineer",
+      "years_experience": 11,
+      "skills": [
+        "SQL",
+        "dbt",
+        "Snowflake",
+        "Python",
+        "Data Modeling",
+        "Airflow",
+        "Tableau"
+      ],
+      "tier": "strong",
+      "pdf": "resumes/helga_ibrahim.pdf"
+    },
+    {
+      "id": "freya_reyes",
+      "name": "Freya Reyes",
+      "role": "Analytics Engineer",
+      "years_experience": 3,
+      "skills": [
+        "Python",
+        "Snowflake",
+        "Data Modeling",
+        "Data Quality",
+        "Airflow",
+        "Git",
+        "BigQuery",
+        "Tableau"
+      ],
+      "tier": "partial",
+      "pdf": "resumes/freya_reyes.pdf"
+    },
+    {
+      "id": "kavya_castillo",
+      "name": "Kavya Castillo",
+      "role": "Analytics Engineer",
+      "years_experience": 8,
+      "skills": [
+        "Python",
+        "Snowflake",
+        "SQL",
+        "Airflow",
+        "Looker",
+        "Data Quality",
+        "BigQuery",
+        "Git"
+      ],
+      "tier": "partial",
+      "pdf": "resumes/kavya_castillo.pdf"
+    },
+    {
+      "id": "amara_eriksen",
+      "name": "Amara Eriksen",
+      "role": "Analytics Engineer",
+      "years_experience": 2,
+      "skills": [
+        "Python",
+        "Snowflake",
+        "Data Quality",
+        "BigQuery",
+        "Tableau",
+        "Git",
+        "Airflow"
+      ],
+      "tier": "weak",
+      "pdf": "resumes/amara_eriksen.pdf"
+    },
+    {
+      "id": "zane_castillo",
+      "name": "Zane Castillo",
+      "role": "Product Manager",
+      "years_experience": 7,
+      "skills": [
+        "Product Strategy",
+        "Roadmaps",
+        "Agile",
+        "SQL",
+        "A/B Testing",
+        "Jira",
+        "User Research"
+      ],
+      "tier": "strong",
+      "pdf": "resumes/zane_castillo.pdf"
+    },
+    {
+      "id": "vera_ibrahim",
+      "name": "Vera Ibrahim",
+      "role": "Product Manager",
+      "years_experience": 3,
+      "skills": [
+        "Roadmaps",
+        "Product Strategy",
+        "Agile",
+        "SQL",
+        "Pricing",
+        "Stakeholder Management",
+        "Figma"
+      ],
+      "tier": "partial",
+      "pdf": "resumes/vera_ibrahim.pdf"
+    },
+    {
+      "id": "anika_yilmaz",
+      "name": "Anika Yilmaz",
+      "role": "Product Manager",
+      "years_experience": 8,
+      "skills": [
+        "Product Strategy",
+        "Roadmaps",
+        "A/B Testing",
+        "Jira",
+        "Stakeholder Management",
+        "Analytics",
+        "Pricing",
+        "Figma"
+      ],
+      "tier": "partial",
+      "pdf": "resumes/anika_yilmaz.pdf"
+    },
+    {
+      "id": "hiro_brennan",
+      "name": "Hiro Brennan",
+      "role": "Product Manager",
+      "years_experience": 1,
+      "skills": [
+        "Roadmaps",
+        "Agile",
+        "User Research",
+        "Pricing",
+        "Figma",
+        "Stakeholder Management",
+        "Analytics"
+      ],
+      "tier": "weak",
+      "pdf": "resumes/hiro_brennan.pdf"
+    },
+    {
+      "id": "yasmin_quinn",
+      "name": "Yasmin Quinn",
+      "role": "Mobile Engineer",
+      "years_experience": 11,
+      "skills": [
+        "Kotlin",
+        "Android",
+        "Jetpack Compose",
+        "REST APIs",
+        "Testing",
+        "iOS",
+        "CI/CD"
+      ],
+      "tier": "strong",
+      "pdf": "resumes/yasmin_quinn.pdf"
+    },
+    {
+      "id": "lucia_tanaka",
+      "name": "Lucia Tanaka",
+      "role": "Mobile Engineer",
+      "years_experience": 3,
+      "skills": [
+        "REST APIs",
+        "Android",
+        "Kotlin",
+        "Testing",
+        "Flutter",
+        "iOS",
+        "Firebase"
+      ],
+      "tier": "partial",
+      "pdf": "resumes/lucia_tanaka.pdf"
+    },
+    {
+      "id": "boris_osei",
+      "name": "Boris Osei",
+      "role": "Mobile Engineer",
+      "years_experience": 5,
+      "skills": [
+        "Jetpack Compose",
+        "Testing",
+        "Android",
+        "REST APIs",
+        "iOS",
+        "CI/CD",
+        "Flutter"
+      ],
+      "tier": "partial",
+      "pdf": "resumes/boris_osei.pdf"
+    },
+    {
+      "id": "kiran_alvarez",
+      "name": "Kiran Alvarez",
+      "role": "Mobile Engineer",
+      "years_experience": 2,
+      "skills": [
+        "Jetpack Compose",
+        "Android",
+        "Offline Sync",
+        "Flutter",
+        "Firebase",
+        "Swift",
+        "CI/CD"
+      ],
+      "tier": "weak",
+      "pdf": "resumes/kiran_alvarez.pdf"
+    },
+    {
+      "id": "viktor_fernandes",
+      "name": "Viktor Fernandes",
+      "role": "Site Reliability Engineer",
+      "years_experience": 6,
+      "skills": [
+        "Go",
+        "Kubernetes",
+        "Prometheus",
+        "Grafana",
+        "AWS",
+        "Incident Response",
+        "Python",
+        "Linux"
+      ],
+      "tier": "distractor",
+      "pdf": "resumes/viktor_fernandes.pdf"
+    },
+    {
+      "id": "petra_osei",
+      "name": "Petra Osei",
+      "role": "QA Automation Engineer",
+      "years_experience": 8,
+      "skills": [
+        "Python",
+        "Selenium",
+        "Playwright",
+        "API Testing",
+        "CI/CD",
+        "Jira",
+        "JavaScript",
+        "Pytest"
+      ],
+      "tier": "distractor",
+      "pdf": "resumes/petra_osei.pdf"
+    },
+    {
+      "id": "zara_usman",
+      "name": "Zara Usman",
+      "role": "Data Analyst",
+      "years_experience": 3,
+      "skills": [
+        "SQL",
+        "Python",
+        "Power BI",
+        "Excel",
+        "Statistics",
+        "Pandas",
+        "A/B Testing",
+        "Google Analytics"
+      ],
+      "tier": "distractor",
+      "pdf": "resumes/zara_usman.pdf"
+    },
+    {
+      "id": "ines_delgado",
+      "name": "Ines Delgado",
+      "role": "Java Engineer",
+      "years_experience": 4,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Kafka",
+        "PostgreSQL",
+        "Microservices",
+        "Docker",
+        "AWS",
+        "Kubernetes"
+      ],
+      "tier": "distractor",
+      "pdf": "resumes/ines_delgado.pdf"
+    },
+    {
+      "id": "joao_kowalski",
+      "name": "Joao Kowalski",
+      "role": "Site Reliability Engineer",
+      "years_experience": 5,
+      "skills": [
+        "Go",
+        "Kubernetes",
+        "Prometheus",
+        "Grafana",
+        "AWS",
+        "Incident Response",
+        "Terraform",
+        "Linux"
+      ],
+      "tier": "distractor",
+      "pdf": "resumes/joao_kowalski.pdf"
+    },
+    {
+      "id": "willem_dimitrov",
+      "name": "Willem Dimitrov",
+      "role": "QA Automation Engineer",
+      "years_experience": 5,
+      "skills": [
+        "Python",
+        "Selenium",
+        "Playwright",
+        "API Testing",
+        "CI/CD",
+        "JavaScript",
+        "Performance Testing",
+        "Jira"
+      ],
+      "tier": "distractor",
+      "pdf": "resumes/willem_dimitrov.pdf"
+    },
+    {
+      "id": "leila_osei",
+      "name": "Leila Osei",
+      "role": "Data Analyst",
+      "years_experience": 6,
+      "skills": [
+        "SQL",
+        "Python",
+        "Power BI",
+        "Excel",
+        "Statistics",
+        "Pandas",
+        "Tableau",
+        "Looker"
+      ],
+      "tier": "distractor",
+      "pdf": "resumes/leila_osei.pdf"
+    },
+    {
+      "id": "bilal_sato",
+      "name": "Bilal Sato",
+      "role": "Java Engineer",
+      "years_experience": 2,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Kafka",
+        "PostgreSQL",
+        "Microservices",
+        "Redis",
+        "Kubernetes",
+        "AWS"
+      ],
+      "tier": "distractor",
+      "pdf": "resumes/bilal_sato.pdf"
+    },
+    {
+      "id": "rania_fernandes",
+      "name": "Rania Fernandes",
+      "role": "Technical Recruiter",
+      "years_experience": 5,
+      "skills": [
+        "Recruiting",
+        "Sourcing",
+        "ATS",
+        "Interviewing",
+        "Stakeholder Management",
+        "Excel",
+        "Employer Branding",
+        "Onboarding"
+      ],
+      "tier": "distractor",
+      "pdf": "resumes/rania_fernandes.pdf"
+    },
+    {
+      "id": "ravi_larsen",
+      "name": "Ravi Larsen",
+      "role": "Technical Writer",
+      "years_experience": 6,
+      "skills": [
+        "Technical Writing",
+        "Markdown",
+        "API Documentation",
+        "Git",
+        "Information Architecture",
+        "Python",
+        "UX Writing",
+        "OpenAPI"
+      ],
+      "tier": "distractor",
+      "pdf": "resumes/ravi_larsen.pdf"
+    },
+    {
+      "id": "bruno_gupta",
+      "name": "Bruno Gupta",
+      "role": "Customer Success Manager",
+      "years_experience": 3,
+      "skills": [
+        "Customer Success",
+        "Account Management",
+        "Onboarding",
+        "CRM",
+        "Renewals",
+        "Training",
+        "SQL",
+        "Excel"
+      ],
+      "tier": "distractor",
+      "pdf": "resumes/bruno_gupta.pdf"
+    },
+    {
+      "id": "tomas_eriksen",
+      "name": "Tomas Eriksen",
+      "role": "Sales Engineer",
+      "years_experience": 5,
+      "skills": [
+        "Solution Design",
+        "Product Demos",
+        "APIs",
+        "Python",
+        "Stakeholder Management",
+        "SQL",
+        "AWS",
+        "Proof of Concept"
+      ],
+      "tier": "distractor",
+      "pdf": "resumes/tomas_eriksen.pdf"
+    },
+    {
+      "id": "camila_varga",
+      "name": "Camila Varga",
+      "role": "Project Manager",
+      "years_experience": 9,
+      "skills": [
+        "Project Management",
+        "Agile",
+        "Scrum",
+        "Jira",
+        "Risk Management",
+        "Budgeting",
+        "Stakeholder Management",
+        "Confluence"
+      ],
+      "tier": "distractor",
+      "pdf": "resumes/camila_varga.pdf"
+    },
+    {
+      "id": "selin_bianchi",
+      "name": "Selin Bianchi",
+      "role": "Technical Recruiter",
+      "years_experience": 10,
+      "skills": [
+        "Recruiting",
+        "Sourcing",
+        "ATS",
+        "Interviewing",
+        "Stakeholder Management",
+        "Onboarding",
+        "Excel",
+        "LinkedIn Recruiter"
+      ],
+      "tier": "distractor",
+      "pdf": "resumes/selin_bianchi.pdf"
+    },
+    {
+      "id": "nadia_varga",
+      "name": "Nadia Varga",
+      "role": "Customer Success Manager",
+      "years_experience": 10,
+      "skills": [
+        "Customer Success",
+        "Account Management",
+        "Onboarding",
+        "CRM",
+        "Renewals",
+        "SQL",
+        "Training",
+        "Salesforce"
+      ],
+      "tier": "distractor",
+      "pdf": "resumes/nadia_varga.pdf"
+    },
+    {
+      "id": "femi_quinn",
+      "name": "Femi Quinn",
+      "role": "Sales Engineer",
+      "years_experience": 11,
+      "skills": [
+        "Solution Design",
+        "Product Demos",
+        "APIs",
+        "Python",
+        "Stakeholder Management",
+        "AWS",
+        "Proof of Concept",
+        "Salesforce"
+      ],
+      "tier": "distractor",
+      "pdf": "resumes/femi_quinn.pdf"
+    },
+    {
+      "id": "marek_sato",
+      "name": "Marek Sato",
+      "role": "Project Manager",
+      "years_experience": 11,
+      "skills": [
+        "Project Management",
+        "Agile",
+        "Scrum",
+        "Jira",
+        "Risk Management",
+        "Budgeting",
+        "Stakeholder Management",
+        "Excel"
+      ],
+      "tier": "distractor",
+      "pdf": "resumes/marek_sato.pdf"
     }
   ],
   "job_descriptions": [
     {
       "id": "data_scientist",
       "title": "Data Scientist",
-      "rtf": "job_descriptions/data_scientist.rtf",
+      "min_experience_years": 5,
+      "required_skills": [
+        "Python",
+        "SQL",
+        "Machine Learning",
+        "TensorFlow",
+        "AWS"
+      ],
+      "nice_to_have_skills": [
+        "Statistics",
+        "A/B Testing",
+        "PyTorch"
+      ],
       "pdf": "job_descriptions/data_scientist.pdf"
     },
     {
       "id": "ml_engineer",
       "title": "Machine Learning Engineer",
-      "rtf": "job_descriptions/ml_engineer.rtf",
+      "min_experience_years": 5,
+      "required_skills": [
+        "Python",
+        "PyTorch",
+        "MLOps",
+        "Kubernetes",
+        "MLflow"
+      ],
+      "nice_to_have_skills": [
+        "Docker",
+        "AWS",
+        "Feature Stores"
+      ],
       "pdf": "job_descriptions/ml_engineer.pdf"
     },
     {
       "id": "backend_engineer",
       "title": "Backend Engineer",
-      "rtf": "job_descriptions/backend_engineer.rtf",
+      "min_experience_years": 5,
+      "required_skills": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Docker",
+        "REST APIs"
+      ],
+      "nice_to_have_skills": [
+        "Redis",
+        "Celery",
+        "AWS"
+      ],
       "pdf": "job_descriptions/backend_engineer.pdf"
     },
     {
       "id": "data_engineer",
       "title": "Data Engineer",
-      "rtf": "job_descriptions/data_engineer.rtf",
+      "min_experience_years": 4,
+      "required_skills": [
+        "Python",
+        "SQL",
+        "Airflow",
+        "Snowflake",
+        "dbt"
+      ],
+      "nice_to_have_skills": [
+        "Spark",
+        "Kafka",
+        "Data Quality"
+      ],
       "pdf": "job_descriptions/data_engineer.pdf"
     },
     {
       "id": "frontend_engineer",
       "title": "Frontend Engineer",
-      "rtf": "job_descriptions/frontend_engineer.rtf",
+      "min_experience_years": 3,
+      "required_skills": [
+        "TypeScript",
+        "React",
+        "Accessibility",
+        "Testing"
+      ],
+      "nice_to_have_skills": [
+        "Next.js",
+        "Storybook",
+        "Performance Optimization"
+      ],
       "pdf": "job_descriptions/frontend_engineer.pdf"
     },
     {
       "id": "cloud_security_engineer",
       "title": "Cloud Security Engineer",
-      "rtf": "job_descriptions/cloud_security_engineer.rtf",
+      "min_experience_years": 5,
+      "required_skills": [
+        "Python",
+        "AWS",
+        "IAM",
+        "Cloud Security",
+        "Threat Modeling"
+      ],
+      "nice_to_have_skills": [
+        "Terraform",
+        "SIEM",
+        "Compliance"
+      ],
       "pdf": "job_descriptions/cloud_security_engineer.pdf"
+    },
+    {
+      "id": "devops_engineer",
+      "title": "DevOps Engineer",
+      "min_experience_years": 4,
+      "required_skills": [
+        "AWS",
+        "Terraform",
+        "Kubernetes",
+        "CI/CD",
+        "Linux"
+      ],
+      "nice_to_have_skills": [
+        "Helm",
+        "Prometheus",
+        "Python"
+      ],
+      "pdf": "job_descriptions/devops_engineer.pdf"
+    },
+    {
+      "id": "full_stack_engineer",
+      "title": "Full Stack Engineer",
+      "min_experience_years": 4,
+      "required_skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "PostgreSQL",
+        "AWS"
+      ],
+      "nice_to_have_skills": [
+        "TypeScript",
+        "GraphQL",
+        "Docker"
+      ],
+      "pdf": "job_descriptions/full_stack_engineer.pdf"
+    },
+    {
+      "id": "nlp_engineer",
+      "title": "NLP Engineer",
+      "min_experience_years": 3,
+      "required_skills": [
+        "Python",
+        "NLP",
+        "Transformers",
+        "Hugging Face",
+        "PyTorch"
+      ],
+      "nice_to_have_skills": [
+        "LLMs",
+        "RAG",
+        "Vector Databases"
+      ],
+      "pdf": "job_descriptions/nlp_engineer.pdf"
+    },
+    {
+      "id": "analytics_engineer",
+      "title": "Analytics Engineer",
+      "min_experience_years": 3,
+      "required_skills": [
+        "SQL",
+        "dbt",
+        "Snowflake",
+        "Python",
+        "Data Modeling"
+      ],
+      "nice_to_have_skills": [
+        "Looker",
+        "Airflow",
+        "Git"
+      ],
+      "pdf": "job_descriptions/analytics_engineer.pdf"
+    },
+    {
+      "id": "product_manager",
+      "title": "Product Manager",
+      "min_experience_years": 5,
+      "required_skills": [
+        "Product Strategy",
+        "Roadmaps",
+        "Agile",
+        "SQL",
+        "A/B Testing"
+      ],
+      "nice_to_have_skills": [
+        "Figma",
+        "User Research",
+        "Pricing"
+      ],
+      "pdf": "job_descriptions/product_manager.pdf"
+    },
+    {
+      "id": "mobile_engineer",
+      "title": "Mobile Engineer",
+      "min_experience_years": 4,
+      "required_skills": [
+        "Kotlin",
+        "Android",
+        "Jetpack Compose",
+        "REST APIs",
+        "Testing"
+      ],
+      "nice_to_have_skills": [
+        "Firebase",
+        "Offline Sync",
+        "CI/CD"
+      ],
+      "pdf": "job_descriptions/mobile_engineer.pdf"
     }
   ]
 }

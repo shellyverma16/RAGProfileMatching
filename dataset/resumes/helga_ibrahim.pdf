@@ -1,0 +1,55 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Length 1675 >>
+stream
+BT /F2 18 Tf 1 0 0 1 72 727 Tm (Helga Ibrahim) Tj ET
+BT /F1 10 Tf 1 0 0 1 72 712 Tm (helga.ibrahim@example.com | +1-555-0171 | New York, NY) Tj ET
+BT /F2 13 Tf 1 0 0 1 72 683 Tm (Professional Summary) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 667 Tm (Lead Analytics Engineer with 11 years of experience modeling trusted business metrics) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 651 Tm (for self-service analytics.) Tj ET
+BT /F2 13 Tf 1 0 0 1 72 622 Tm (Skills) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 606 Tm (SQL, dbt, Snowflake, Python, Data Modeling, Airflow, Tableau) Tj ET
+BT /F2 13 Tf 1 0 0 1 72 577 Tm (Experience) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 561 Tm (Lead Analytics Engineer | Pinecrest Software | 2024 - Present) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 545 Tm (- Automated data-quality alerts for late and anomalous loads.) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 529 Tm (- Designed dimensional models in Snowflake for finance and growth teams.) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 513 Tm (- Defined a metrics layer that ended conflicting revenue numbers across dashboards.) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 497 Tm (Analytics Engineer | Bluepeak Logistics | 2022 - 2024) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 481 Tm (- Built a dbt project of 150 tested models powering company KPIs.) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 465 Tm (- Built Looker explores that cut ad-hoc data requests by half.) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 449 Tm (Associate Analytics Engineer | Orchard Telecom | 2015 - 2022) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 433 Tm (- Trained analysts on SQL style, Git workflows and code review.) Tj ET
+BT /F2 13 Tf 1 0 0 1 72 404 Tm (Education) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 388 Tm (BSc Data Analytics, Cedar Valley University \(2014\)) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 5 0 R >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000191 00000 n 
+0000000266 00000 n 
+0000001993 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+2129
+%%EOF

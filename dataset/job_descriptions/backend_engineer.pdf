@@ -4,73 +4,47 @@
 << /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+<< /Type /Pages /Kids [6 0 R] /Count 1 >>
 endobj
 3 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 5 0 R >> >> /Contents 4 0 R >>
-endobj
-4 0 obj
-<< /Length 632 >>
-stream
-BT
-/F1 18 Tf
-72 750 Td
-(Backend Engineer) Tj
-0 -20 Td
-/F1 11 Tf
-() Tj
-0 -20 Td
-/F1 11 Tf
-(Role Overview) Tj
-0 -20 Td
-/F1 11 Tf
-(We are hiring a Backend Engineer to join a cross-functional team.) Tj
-0 -20 Td
-/F1 11 Tf
-() Tj
-0 -20 Td
-/F1 11 Tf
-(Minimum Experience) Tj
-0 -20 Td
-/F1 11 Tf
-(5+ years) Tj
-0 -20 Td
-/F1 11 Tf
-() Tj
-0 -20 Td
-/F1 11 Tf
-(Required Skills) Tj
-0 -20 Td
-/F1 11 Tf
-(Python, Django, PostgreSQL, Docker, REST APIs) Tj
-0 -20 Td
-/F1 11 Tf
-() Tj
-0 -20 Td
-/F1 11 Tf
-(Responsibilities) Tj
-0 -20 Td
-/F1 11 Tf
-(Design reliable APIs, data models, and integrations for a growing SaaS platform.) Tj
-0 -20 Td
-/F1 11 Tf
-() Tj
-ET
-endstream
-endobj
-5 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
 endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Length 1006 >>
+stream
+BT /F2 18 Tf 1 0 0 1 72 727 Tm (Backend Engineer) Tj ET
+BT /F2 13 Tf 1 0 0 1 72 698 Tm (Role Overview) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 682 Tm (Pinecrest Software is hiring a Backend Engineer to join a cross-functional team.) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 666 Tm (Location: Berlin, Germany.) Tj ET
+BT /F2 13 Tf 1 0 0 1 72 637 Tm (Minimum Experience) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 621 Tm (5+ years) Tj ET
+BT /F2 13 Tf 1 0 0 1 72 592 Tm (Required Skills) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 576 Tm (Python, Django, PostgreSQL, Docker, REST APIs) Tj ET
+BT /F2 13 Tf 1 0 0 1 72 547 Tm (Nice-to-Have Skills) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 531 Tm (Redis, Celery, AWS) Tj ET
+BT /F2 13 Tf 1 0 0 1 72 502 Tm (Responsibilities) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 486 Tm (- Design reliable APIs, data models and integrations for a growing SaaS platform.) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 470 Tm (- Improve performance and observability of core services.) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 454 Tm (- Review code and mentor engineers.) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 5 0 R >>
+endobj
 xref
-0 6
+0 7
 0000000000 65535 f 
 0000000015 00000 n 
 0000000064 00000 n 
 0000000121 00000 n 
-0000000247 00000 n 
-0000000930 00000 n 
+0000000191 00000 n 
+0000000266 00000 n 
+0000001324 00000 n 
 trailer
-<< /Size 6 /Root 1 0 R >>
+<< /Size 7 /Root 1 0 R >>
 startxref
-1000
+1460
 %%EOF

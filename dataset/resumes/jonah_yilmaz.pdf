@@ -1,0 +1,55 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Length 1684 >>
+stream
+BT /F2 18 Tf 1 0 0 1 72 727 Tm (Jonah Yilmaz) Tj ET
+BT /F1 10 Tf 1 0 0 1 72 712 Tm (jonah.yilmaz@example.com | +1-555-0167 | Dublin, Ireland) Tj ET
+BT /F2 13 Tf 1 0 0 1 72 683 Tm (Professional Summary) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 667 Tm (Senior NLP Engineer with 9 years of experience building language-understanding) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 651 Tm (systems and LLM-powered features.) Tj ET
+BT /F2 13 Tf 1 0 0 1 72 622 Tm (Skills) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 606 Tm (Python, NLP, Transformers, Hugging Face, PyTorch, spaCy, FastAPI) Tj ET
+BT /F2 13 Tf 1 0 0 1 72 577 Tm (Experience) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 561 Tm (Senior NLP Engineer | Harborview Health | 2022 - Present) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 545 Tm (- Served NLP models behind FastAPI with batching and caching.) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 529 Tm (- Fine-tuned Hugging Face transformer models for support-ticket classification.) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 513 Tm (- Built a retrieval-augmented generation service over 200,000 internal documents.) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 497 Tm (NLP Engineer | Summit Freight | 2020 - 2022) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 481 Tm (- Built named-entity extraction pipelines for contracts using spaCy.) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 465 Tm (- Created evaluation sets and metrics to track LLM answer quality.) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 449 Tm (Associate NLP Engineer | Northgate Retail | 2017 - 2020) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 433 Tm (- Reduced annotation cost with active-learning sampling.) Tj ET
+BT /F2 13 Tf 1 0 0 1 72 404 Tm (Education) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 388 Tm (MSc Computational Linguistics, Lakeside Institute of Technology \(2017\)) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 5 0 R >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000191 00000 n 
+0000000266 00000 n 
+0000002002 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+2138
+%%EOF

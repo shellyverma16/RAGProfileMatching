@@ -4,76 +4,53 @@
 << /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+<< /Type /Pages /Kids [6 0 R] /Count 1 >>
 endobj
 3 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 5 0 R >> >> /Contents 4 0 R >>
-endobj
-4 0 obj
-<< /Length 698 >>
-stream
-BT
-/F1 18 Tf
-72 750 Td
-(Umar Hassan) Tj
-0 -20 Td
-/F1 11 Tf
-() Tj
-0 -20 Td
-/F1 11 Tf
-(Professional Summary) Tj
-0 -20 Td
-/F1 11 Tf
-(Java Engineer with 8 years of experience delivering measurable outcomes in collaborative teams.) Tj
-0 -20 Td
-/F1 11 Tf
-() Tj
-0 -20 Td
-/F1 11 Tf
-(Skills) Tj
-0 -20 Td
-/F1 11 Tf
-(Java, Spring Boot, Kafka, PostgreSQL, Microservices) Tj
-0 -20 Td
-/F1 11 Tf
-() Tj
-0 -20 Td
-/F1 11 Tf
-(Experience) Tj
-0 -20 Td
-/F1 11 Tf
-(Java Engineer | 8 years) Tj
-0 -20 Td
-/F1 11 Tf
-(Modernized order-processing services with event-driven architecture.) Tj
-0 -20 Td
-/F1 11 Tf
-() Tj
-0 -20 Td
-/F1 11 Tf
-(Education) Tj
-0 -20 Td
-/F1 11 Tf
-(BSc Software Engineering) Tj
-0 -20 Td
-/F1 11 Tf
-() Tj
-ET
-endstream
-endobj
-5 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
 endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Length 1749 >>
+stream
+BT /F2 18 Tf 1 0 0 1 72 727 Tm (Umar Hassan) Tj ET
+BT /F1 10 Tf 1 0 0 1 72 712 Tm (umar.hassan@example.com | +1-555-0120 | Bengaluru, India) Tj ET
+BT /F2 13 Tf 1 0 0 1 72 683 Tm (Professional Summary) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 667 Tm (Senior Java Engineer with 8 years of experience building event-driven backend) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 651 Tm (services on the JVM.) Tj ET
+BT /F2 13 Tf 1 0 0 1 72 622 Tm (Skills) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 606 Tm (Java, Spring Boot, Kafka, PostgreSQL, Microservices, AWS, REST APIs) Tj ET
+BT /F2 13 Tf 1 0 0 1 72 577 Tm (Experience) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 561 Tm (Senior Java Engineer | Pinecrest Software | 2025 - Present) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 545 Tm (- Modernized order-processing services with event-driven architecture.) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 529 Tm (- Built Spring Boot microservices processing 5 million orders a month.) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 513 Tm (- Optimized PostgreSQL schemas for high-write workloads.) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 497 Tm (Java Engineer | Ironwood Insurance | 2024 - 2025) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 481 Tm (- Reviewed code and mentored three junior engineers.) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 465 Tm (- Introduced Kafka event streams to decouple order and inventory services.) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 449 Tm (Associate Java Engineer | Lattice Learning | 2018 - 2024) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 433 Tm (- Added distributed tracing to diagnose cross-service latency.) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 417 Tm (- Led the upgrade from Java 11 to Java 21 across 30 services.) Tj ET
+BT /F2 13 Tf 1 0 0 1 72 388 Tm (Education) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 372 Tm (BSc Software Engineering, Lakeside Institute of Technology \(2016\)) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 5 0 R >>
+endobj
 xref
-0 6
+0 7
 0000000000 65535 f 
 0000000015 00000 n 
 0000000064 00000 n 
 0000000121 00000 n 
-0000000247 00000 n 
-0000000996 00000 n 
+0000000191 00000 n 
+0000000266 00000 n 
+0000002067 00000 n 
 trailer
-<< /Size 6 /Root 1 0 R >>
+<< /Size 7 /Root 1 0 R >>
 startxref
-1066
+2203
 %%EOF

@@ -1,0 +1,55 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Length 1641 >>
+stream
+BT /F2 18 Tf 1 0 0 1 72 727 Tm (Petra Osei) Tj ET
+BT /F1 10 Tf 1 0 0 1 72 712 Tm (petra.osei@example.com | +1-555-0184 | Bengaluru, India) Tj ET
+BT /F2 13 Tf 1 0 0 1 72 683 Tm (Professional Summary) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 667 Tm (Senior QA Automation Engineer with 8 years of experience building automated test) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 651 Tm (suites that speed up releases.) Tj ET
+BT /F2 13 Tf 1 0 0 1 72 622 Tm (Skills) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 606 Tm (Python, Selenium, Playwright, API Testing, CI/CD, Jira, JavaScript, Pytest) Tj ET
+BT /F2 13 Tf 1 0 0 1 72 577 Tm (Experience) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 561 Tm (Senior QA Automation Engineer | Riverstone Analytics | 2022 - Present) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 545 Tm (- Ran load tests ahead of major launches and reported bottlenecks.) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 529 Tm (- Coached developers on writing testable code.) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 513 Tm (- Automated API contract tests with Python and Pytest.) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 497 Tm (QA Automation Engineer | Cobalt Commerce | 2020 - 2022) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 481 Tm (- Introduced flaky-test tracking and quarantine in CI.) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 465 Tm (- Built a Playwright suite of 600 end-to-end tests running on every merge.) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 449 Tm (Associate QA Automation Engineer | Copperleaf Labs | 2018 - 2020) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 433 Tm (- Cut release verification from two days to three hours.) Tj ET
+BT /F2 13 Tf 1 0 0 1 72 404 Tm (Education) Tj ET
+BT /F1 11 Tf 1 0 0 1 72 388 Tm (BSc Information Systems, Eastfield College \(2018\)) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 5 0 R >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000191 00000 n 
+0000000266 00000 n 
+0000001959 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+2095
+%%EOF

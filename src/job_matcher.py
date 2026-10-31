@@ -84,7 +84,9 @@ def job_matches(
     top_k: int = 10,
     database_dir: Path = DB_DIR,
     model: str = "text-embedding-3-small",
+    strict: bool = True,
 ) -> dict[str, object]:
+    """Rank indexed resumes; strict=False keeps candidates missing skills or experience."""
     if not os.environ.get("OPENAI_API_KEY"):
         raise RuntimeError("Set OPENAI_API_KEY before matching resumes.")
 
@@ -126,9 +128,9 @@ def job_matches(
     ranked: list[dict[str, object]] = []
     for candidate in candidates.values():
         matched_skills = matches_skills(str(candidate["skills"]), required_groups)
-        if int(candidate["experience_years"]) < minimum_years:
+        if strict and int(candidate["experience_years"]) < minimum_years:
             continue
-        if required_groups and not all(matched_skills):
+        if strict and required_groups and not all(matched_skills):
             continue
 
         keyword_score = len([skill for skill in matched_skills if skill]) / len(required_groups) if required_groups else 0
@@ -140,6 +142,7 @@ def job_matches(
                 "resume_path": candidate["resume_path"],
                 "match_score": match_score,
                 "matched_skills": matched_skills,
+                "experience_years": candidate["experience_years"],
                 "relevant_excerpts": candidate["excerpts"][:2],
                 "reasoning": (
                     f"Matched skills: {', '.join(matched_skills) or 'semantic match'}; "
